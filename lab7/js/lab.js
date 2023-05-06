@@ -1,3 +1,6 @@
+// Author: Alexis Huang and Scott Kuwahara
+// Date: 3 May
+
 function sortUsername() {
     var userName = window.prompt("GIVE ME YOUR NAME OR ELSE.");
     console.log("userName = ", userName);
@@ -14,4 +17,4 @@ function sortUsername() {
     return nameSorted;
 }
 
-document.writeIn("I fixed your name: ", sortUserName(), "</br>");
+document.writeln("I fixed your name: ", sortUsername(), "</br>");

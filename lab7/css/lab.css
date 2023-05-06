@@ -1,0 +1,21 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+  }
+  
+  h3{
+    margin-left: 25px;
+    color: #8d9cb0;
+  }
+  
+  .output{
+    margin-left: 35px;
+    color: #8d9cb0;
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  img{
+    padding: 15px;
+  }
+  
