@@ -1,0 +1,35 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+  }
+  
+  h2{
+    color: #df969e;
+    font-family: "Monaco", monospace;
+  }
+
+  h3{
+    margin-left: 25px;
+    color: #e4b4ba;
+    font-family: "Monaco", monospace;
+  }
+  
+  .output{
+    margin-left: 35px;
+    color: #e4b4ba;
+    font-family: 'Noto Sans', sans-serif;
+  }
+  
+  img{
+    padding: 15px;
+  }
+  
+  p{
+    margin-left: 25px;
+    color: #e4b4ba;
+  }
+
+  #output{
+    margin-left: 25px;
+  }
