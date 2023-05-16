@@ -9,13 +9,42 @@
     color: #8d9cb0;
   }
   
-  .output{
-    margin-left: 35px;
+  #output{
+    margin-top: 10px;
+    padding-left: 50px;
     color: #8d9cb0;
     font-family: 'Noto Sans', sans-serif;
   }
   
   img{
-    padding: 15px;
+    padding: 20px;
+    padding-left: 50px;
   }
   
+
+  p{
+    margin-left: 25px;
+    color: #8d9cb0;
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+  input{
+    margin: 5px;
+    margin-left: 25px;
+    border:none;
+    color: #8d9cb0;
+  }
+
+  button{
+    color:#8d9cb0;
+    background-color: #ffffff;
+    border:none;
+    margin-left: 25px;
+    margin-bottom: 25px;
+  }
+  
+  label{
+    margin-left: 25px;
+    color: #8d9cb0;
+    font-family: 'Noto Sans', sans-serif;
+  }
