@@ -23,5 +23,3 @@ document.getElementById("my-button").addEventListener("click", function(event){
    //replace the output to be the new one
     document.getElementById("output").innerHTML = resultName;
   });
-
-
