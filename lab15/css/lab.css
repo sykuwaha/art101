@@ -1,0 +1,50 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+  }
+  
+  label{
+    margin-left: 25px;
+    color: #8d9cb0;
+  }
+  
+  #output{
+    padding: 50px;
+    color: #8d9cb0;
+    font: 1.2em "Fira Sans", serif;
+    column-count: 7;
+    
+  }
+  
+  img{
+    padding: 20px;
+    padding-left: 50px;
+  }
+  
+
+  p{
+    margin-left: 25px;
+    color: #8d9cb0;
+    font-family: 'Noto Sans', sans-serif;
+  }
+
+  input{
+    margin: 5px;
+    margin-left: 25px;
+    color: #8d9cb0;
+  }
+
+ button{
+    color: #f4f7f9;
+    background-color: #c1d2e9;
+    margin-top: 25px;
+    margin-left: 25px;
+    border:none;
+    border-radius: 5px;
+    font-size: 125%;
+    font: italic 1.2em "Fira Sans", serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
