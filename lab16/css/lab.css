@@ -1,0 +1,40 @@
+.minor-section {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #ffffff;
+}
+
+
+#output{
+  padding: 25px;
+  color: #8d9cb0;
+  font: 1.2em "Fira Sans", serif;
+ 
+}
+
+
+img{
+  padding: 20px;
+  padding-left: 50px;
+}
+
+
+
+
+p{
+  color: #8d9cb0;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+button{
+  color: #f4f7f9;
+  background-color: #c1d2e9;
+  margin-left: 5px;
+  border:none;
+  border-radius: 5px;
+  font-size: 125%;
+  font: italic 1.2em "Fira Sans", serif;
+}
+
+
